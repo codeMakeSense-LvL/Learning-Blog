@@ -4,6 +4,8 @@ Learning Blog for HTML CSS &amp; JS
 这里是我学习前端相关知识记录笔记的地方
 ##
 
+[项目中git 常用操作总结 #9](https://github.com/codemakesense/Learning-Notes/issues/9#issue-541305210)
+
 [webpack 使用的一些常用配置 #8](https://github.com/codemakesense/Learning-Notes/issues/8#issue-537891534)
 
 [Vue实例中的生命周期钩子 #7](https://github.com/codemakesense/Learning-Notes/issues/7#issue-532036352)
